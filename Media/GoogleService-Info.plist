@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCsTW9sPcLcAOIwczYyW-YMdwrU9c55PWo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>548948476801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gobeauty.ezs</string>
+	<key>PROJECT_ID</key>
+	<string>go-beauty-5b3f7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>go-beauty-5b3f7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:548948476801:ios:fde8869a3c3dd25183de80</string>
+	<key>DATABASE_URL</key>
+	<string>https://go-beauty-5b3f7-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

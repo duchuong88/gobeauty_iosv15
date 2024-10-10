@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "548948476801",
+    "firebase_url": "https://go-beauty-5b3f7-default-rtdb.firebaseio.com",
+    "project_id": "go-beauty-5b3f7",
+    "storage_bucket": "go-beauty-5b3f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548948476801:android:7849187736f8696983de80",
+        "android_client_info": {
+          "package_name": "gobeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvkkOkL4_r9nWPHOwQLqfmzjn6L7KiyWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
